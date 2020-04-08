@@ -6910,6 +6910,32 @@ module.exports = [
       'Blogger',
     ],
   },
+   {
+    name: 'Abo Baloyi',
+    description:
+      'Full Stack Developer.Full time nerd ',
+    url: 'https://baloyiabo.co.za/uses',
+    twitter: '@abobaloyi',
+    emoji: '🤓',
+    country: 'za',
+    computer: 'linux',
+    phone: 'android',
+    tags: [
+      'Full Stack',
+     
+      'Web Developer',
+      'Software Engineer',
+      'Flask',
+      'Front End',
+      'Node',
+      'GraphQL',
+      'Gatsby',
+      'JavaScript',
+     
+      'Python'
+      'Linux',
+    ],
+  },
   {
     name: 'Zura Gabievi',
     description: 'Front-end Team Lead.',
